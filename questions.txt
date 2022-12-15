@@ -1,0 +1,26 @@
+1. Write a program to search an element using Linear Search.
+2. Write a program to search an element using Binary Search.
+3. Write a program to sort the given array using Bubble Sort.
+4. Write a program to sort the given array using Selection Sort.
+5. Write a program to sort the given array using Insertion Sort.
+6. Write a program to sort the given array using QuickSort.
+7. Write a program to sort the given array using MergeSort.
+8. Write a program to insert a new element in the given unsorted array at kth position.
+9. Write a program to delete an element from given sorted array.
+10. Write a program to merge to given sorted arrays.
+11. Write a program to implement Stack using array, also show overflow and underflow in respective push and pop operations.
+12. Write a program to implement Queue using array, which shows insertion and deletion operations.
+13. Write a program to implement Circular Queue using array, which shows insertion and deletion operations.
+14. Write a program to implement Linear Linked List, showing all the operations, like creation, display, insertion, deletion and searching.
+15. Write a program to implement Stack, using Linked List. Implement Push, Pop and display operations.
+16. Write a program to implement Queue, using Linked List. Implement Insertion, deletion and display operations.
+17. Write a program to count the number of times an item is present in a linked list.
+18. Write a program to increment the data part of every node present in a linked list by 10. Display the data both before incrimination and after.
+19. Write a program to implement Doubly Linked List, showing all the operations, like creation, display, insertion, deletion and searching.
+20. Write a program to create a Binary Search Tree and display its contents using recursive preorder, postorder and inorder traversal.
+21. Write a program to implement deletion of a node in binary search tree.
+22. Write a program to implement Binary tree and display the contents using non-recursive preorder, postorder and inorder traversal techniques.
+23. Write a program to sort the given array using HeapSort.
+24. Write a program of Graph traversal-Depth first search and Breadth first search.
+25. Write a program to implement Prim’s algorithm
+26. Write a program to implement Kruskal algorithm.
